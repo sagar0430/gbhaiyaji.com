@@ -6,15 +6,24 @@
 
     <!--CSS files-->
 
-    <!--for importing font from google-->
+
     <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
-    <!--for importing icon-->
     <link href="CSS/ionicons.min.css" rel="stylesheet">
-    <!--main css files-->
     <link href="CSS/style.css" rel="stylesheet" type="text/css">
+
+
+    <link href="CSS/Slider_CSS/normalize.css" rel="stylesheet" type="text/css" />
+    <!--for overflow over images heading-->
+    <link href="CSS/Slider_CSS/demo.css"  rel="stylesheet" type="text/css"/>
+
+    <link href="CSS/Slider_CSS/component.css" rel="stylesheet" type="text/css"/>
+
+
+
 
     <!--javascript files-->
     <script src="JS/modernizr-2.8.3.min.js" type="text/javascript"></script>
+    <script src="JS/Slider_JS/modernizr.custom.js"></script>
 </head>
 
 
@@ -22,10 +31,6 @@
 
 <nav>
     <ul>
-        <!--<li><a href="http://facebook.com">Company</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Social</a></li>
-        <li><a href="#">Contact</a></li>-->
         <h1>Agarwal group of industries</h1>
     </ul>
 </nav>
@@ -61,6 +66,34 @@
     </div>
 </div>
 
+<div class="container">
+    <div id="boxgallery" class="boxgallery" data-effect="effect-2">
+        <div class="panel">
+            <img src="images/sliderimages/banner1.png" alt="Image 3"/>
+            <!--<header class="codrops-header">
+                <h1>Welcome To IOE<span>An Official NGO Of Jaypee Institute Of Information Technology</span></h1>
+            </header>-->
+        </div>
+        <div class="panel">
+            <img src="images/sliderimages/banner2.png" alt="Image 4"/>
+        </div>
+
+        <div class="panel">
+            <img src="images/sliderimages/banner3.png" alt="Image 1"/>
+        </div>
+
+        <div class="panel">
+            <img src="images/sliderimages/banner4.png" alt="Image 2"/>
+        </div>
+
+        <div class="panel">
+            <img src="images/sliderimages/banner5.png" alt="Image 5"/>
+        </div>
+    </div>
+
+</div>
+
+
 
 
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
@@ -83,6 +116,13 @@
         });
 
     });
+</script>
+
+<script src="JS/Slider_JS/classie.js" type="text/javascript"></script>
+<script src="JS/Slider_JS/boxesFx.js" type="text/javascript"></script>
+
+<script>
+    new BoxesFx( document.getElementById( 'boxgallery' ) );
 </script>
 </body>
 
