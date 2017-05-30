@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>gbhaiyaji.com</title>
+
+    <!--CSS files-->
+
+    <!--for importing font from google-->
+    <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+    <!--for importing icon-->
+    <link href="CSS/ionicons.min.css" rel="stylesheet">
+    <!--main css files-->
+    <link href="CSS/style.css" rel="stylesheet" type="text/css">
+
+    <!--javascript files-->
+    <script src="JS/modernizr-2.8.3.min.js" type="text/javascript"></script>
+</head>
+
+
+<body>
+
+<nav>
+    <ul>
+        <!--<li><a href="http://facebook.com">Company</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Social</a></li>
+        <li><a href="#">Contact</a></li>-->
+        <h1>Agarwal group of industries</h1>
+    </ul>
+</nav>
+
+<div class="menu-btn">
+    <a class="btn-open" href="javascript:void(0)"></a>
+</div>
+
+<div class="overlay">
+    <div class="menu">
+        <ul>
+            <li>
+                <a href="#">About Us</a>
+            </li>
+
+            <li>
+                <a href="#">Our Services</a>
+            </li>
+
+            <li>
+                <a href="#">Products</a>
+            </li>
+
+            <li>
+                <a href="#">Infrastructure</a>
+            </li>
+
+            <li>
+                <a href="#">Contact Us</a>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script>
+    $(document).ready(function () {
+
+        $(".menu-btn a").click(function () {
+            $(".overlay").fadeToggle(200);
+            $(this).toggleClass('btn-open').toggleClass('btn-close');
+        });
+
+        $('.overlay').on('click', function () {
+            $(".overlay").fadeToggle(200);
+            $(".menu-btn a").toggleClass('btn-open').toggleClass('btn-close');
+        });
+
+        $('.menu a').on('click', function () {
+            $(".overlay").fadeToggle(200);
+            $(".menu-btn a").toggleClass('btn-open').toggleClass('btn-close');
+        });
+
+    });
+</script>
+</body>
+
+
+
+
+</html>
