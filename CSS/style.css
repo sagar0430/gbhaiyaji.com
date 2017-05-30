@@ -138,9 +138,9 @@ nav ul li a:hover {
 }
 
 .overlay .menu ul li {
-    /*float: left;*/
-    padding: 20px 0;
-    width: 25%;
+    float: left;
+    padding: 10px 0;
+    width: 20%;
     list-style: none;
     text-align: center;
     text-transform: uppercase;
@@ -178,7 +178,7 @@ nav ul li a:hover {
 
 /* RESPONSIVE */
 
-@media screen and (max-width: 2000px) {
+@media screen and (max-width: 1155px) {
     /*nav {
         display: none;
     }*/
