@@ -1,4 +1,8 @@
-
+body
+{
+    display: flex;
+    flex-direction: column;
+}
 #bs-example-navbar-collapse-1 ul li a
 {
     font-family: 'Raleway', sans-serif;
@@ -22,4 +26,8 @@ nav {
 .link-1:hover {
     border-top: 4px solid #000;
     border-bottom: 4px solid #000;
+}
+.flicker-example
+{
+    margin-top: -18px;
 }
