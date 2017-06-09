@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef447295-acff-4d72-b5f8-5b678fe1982a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/flickerplate.css" afterPath="$PROJECT_DIR$/CSS/flickerplate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
-              <caret line="16" column="75" lean-forward="false" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+              <caret line="82" column="16" lean-forward="true" selection-start-line="79" selection-start-column="8" selection-end-line="82" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -40,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flickerplate.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="flickerplate.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/flickerplate.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -77,8 +77,8 @@
         <option value="$PROJECT_DIR$/CSS/Slider_CSS/demo.css" />
         <option value="$PROJECT_DIR$/CSS/Slider_CSS/component.css" />
         <option value="$PROJECT_DIR$/CSS/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CSS/flickerplate.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -228,12 +228,12 @@
       <updated>1496139973310</updated>
       <workItem from="1496139978591" duration="3353000" />
       <workItem from="1496817401864" duration="596000" />
-      <workItem from="1496985046567" duration="2048000" />
+      <workItem from="1496985046567" duration="3591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33686000" />
+    <option name="totallyTimeSpent" value="35229000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -447,18 +447,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="75" lean-forward="false" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/flickerplate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="619" lean-forward="false" selection-start-line="0" selection-start-column="619" selection-end-line="0" selection-end-column="619" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="82" column="16" lean-forward="true" selection-start-line="79" selection-start-column="8" selection-end-line="82" selection-end-column="16" />
           <folding />
         </state>
       </provider>
