@@ -49,14 +49,15 @@ nav {
     letter-spacing: 1.2px;
     margin-top: 1%;
 }
-.flick-title-self
-{
+.flick-title-self {
     text-align: center;
-    font-weight: 900;
-    font-size: 50px;
-    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    font-size: 70px;
+    /*font-family: 'Raleway', sans-serif;*/
+    font-family: 'Luckiest Guy', cursive;
     word-spacing: 4px;
     letter-spacing: 4px;
+    color: orangered;
 }
 .flick-sub-text
 {
