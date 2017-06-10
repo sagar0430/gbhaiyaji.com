@@ -69,4 +69,11 @@ nav {
     border-style: solid;
     border-color: white;
     border-radius: 0;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+}
+.btn-default
+{
+    background-color: transparent;
+    color: white;
 }
