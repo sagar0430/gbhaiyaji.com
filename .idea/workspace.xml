@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef447295-acff-4d72-b5f8-5b678fe1982a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/style.css" afterPath="$PROJECT_DIR$/CSS/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="41" column="125" lean-forward="false" selection-start-line="41" selection-start-column="125" selection-end-line="41" selection-end-column="125" />
+            <state relative-caret-position="322">
+              <caret line="106" column="45" lean-forward="false" selection-start-line="106" selection-start-column="45" selection-end-line="106" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -33,8 +34,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state relative-caret-position="397">
+              <caret line="63" column="21" lean-forward="false" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -43,7 +44,7 @@
       <file leaf-file-name="flickerplate.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/flickerplate.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-150">
+            <state relative-caret-position="-177">
               <caret line="0" column="619" lean-forward="false" selection-start-line="0" selection-start-column="619" selection-end-line="0" selection-end-column="619" />
               <folding />
             </state>
@@ -76,8 +77,8 @@
         <option value="$PROJECT_DIR$/../FreeLance_/index.html" />
         <option value="$PROJECT_DIR$/CSS/Slider_CSS/demo.css" />
         <option value="$PROJECT_DIR$/CSS/Slider_CSS/component.css" />
-        <option value="$PROJECT_DIR$/CSS/style.css" />
         <option value="$PROJECT_DIR$/CSS/flickerplate.css" />
+        <option value="$PROJECT_DIR$/CSS/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -228,12 +229,12 @@
       <updated>1496139973310</updated>
       <workItem from="1496139978591" duration="3353000" />
       <workItem from="1496817401864" duration="596000" />
-      <workItem from="1496985046567" duration="5438000" />
+      <workItem from="1496985046567" duration="7824000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37076000" />
+    <option name="totallyTimeSpent" value="39462000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -439,26 +440,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/Fully-Responsive-Touch-enabled-jQuery-Carousel-Plugin-Flickerplate/Fully-Responsive-Touch-enabled-jQuery-Carousel-Plugin-Flickerplate/index.html" />
-    <entry file="file://$PROJECT_DIR$/CSS/style.css">
+    <entry file="file://$PROJECT_DIR$/CSS/flickerplate.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state relative-caret-position="-177">
+          <caret line="0" column="619" lean-forward="false" selection-start-line="0" selection-start-column="619" selection-end-line="0" selection-end-column="619" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/flickerplate.css">
+    <entry file="file://$PROJECT_DIR$/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="0" column="619" lean-forward="false" selection-start-line="0" selection-start-column="619" selection-end-line="0" selection-end-column="619" />
+        <state relative-caret-position="397">
+          <caret line="63" column="21" lean-forward="false" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="41" column="125" lean-forward="false" selection-start-line="41" selection-start-column="125" selection-end-line="41" selection-end-column="125" />
+        <state relative-caret-position="322">
+          <caret line="106" column="45" lean-forward="false" selection-start-line="106" selection-start-column="45" selection-end-line="106" selection-end-column="45" />
           <folding />
         </state>
       </provider>
