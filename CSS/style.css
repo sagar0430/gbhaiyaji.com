@@ -57,7 +57,8 @@ nav {
     font-family: 'Luckiest Guy', cursive;
     word-spacing: 4px;
     letter-spacing: 4px;
-    color: orangered;
+    /*color: orangered;*/
+    color: white;
 }
 .flick-sub-text
 {
