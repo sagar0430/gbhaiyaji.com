@@ -51,10 +51,11 @@ nav {
 }
 .flick-title-self {
     text-align: center;
-    font-weight: 100;
-    font-size: 70px;
+    font-weight: 900;
+    font-size: 65px;
     /*font-family: 'Raleway', sans-serif;*/
-    font-family: 'Luckiest Guy', cursive;
+    /*font-family: 'Luckiest Guy', cursive;*/
+    font-family: 'Domine', serif;
     word-spacing: 4px;
     letter-spacing: 4px;
     /*color: orangered;*/
