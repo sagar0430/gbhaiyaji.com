@@ -220,7 +220,7 @@
     /*line-height: 84px;*/
     /*margin-bottom: 30px;*/
     border-style: none;
-    border-radius: 12px;
+    border-radius: 24px;
     background-color: rgba(0,0,0,0.4);
     letter-spacing: 1.5px;
     display: inline-block;
@@ -241,17 +241,17 @@
 .slide-text > a.btn-danger{
     color: #ffffff;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 13px;
     font-family: 'Raleway', sans-serif;
-    line-height: 15px;
+    line-height: 10px;
     /*margin-right: 10px;*/
     text-align: center;
-    padding: 17px 30px;
+    padding: 14px 14px;
     white-space: nowrap;
     letter-spacing: 1.2px;
     display: inline-block;
     border: none;
-    border-radius: 24px;
+    /*border-radius: 24px;*/
     text-transform: uppercase;
     -webkit-animation-delay: 1s;
     animation-delay: 1s;
