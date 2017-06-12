@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef447295-acff-4d72-b5f8-5b678fe1982a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/style.css" afterPath="$PROJECT_DIR$/CSS/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="ef447295-acff-4d72-b5f8-5b678fe1982a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -24,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="109" column="44" lean-forward="true" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="44" />
+            <state relative-caret-position="396">
+              <caret line="109" column="46" lean-forward="true" selection-start-line="109" selection-start-column="46" selection-end-line="109" selection-end-column="46" />
               <folding>
                 <marker date="1497288105716" expanded="true" signature="5888:5901" ph="..." />
               </folding>
@@ -36,11 +33,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/master/bootstrap-carousel-touch-slider-master/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="300">
               <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
               <folding>
                 <element signature="e#801#1178#0" expanded="false" />
-                <marker date="1497288105653" expanded="true" signature="6220:6296" ph="..." />
               </folding>
             </state>
           </provider>
@@ -224,7 +220,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54084000" />
+    <option name="totallyTimeSpent" value="55065000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -328,7 +324,6 @@
           <caret line="38" column="40" lean-forward="true" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
           <folding>
             <element signature="e#801#1178#0" expanded="false" />
-            <marker date="1497288105653" expanded="true" signature="6220:6296" ph="..." />
           </folding>
         </state>
       </provider>
@@ -538,25 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/master/bootstrap-carousel-touch-slider-master/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-          <folding>
-            <element signature="e#801#1178#0" expanded="false" />
-            <marker date="1497288105653" expanded="true" signature="6220:6296" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/master/bootstrap-carousel-touch-slider-master/bootstrap-touch-slider.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3700">
@@ -565,10 +541,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/master/bootstrap-carousel-touch-slider-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+          <folding>
+            <element signature="e#801#1178#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="109" column="44" lean-forward="true" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="44" />
+        <state relative-caret-position="396">
+          <caret line="109" column="46" lean-forward="true" selection-start-line="109" selection-start-column="46" selection-end-line="109" selection-end-column="46" />
           <folding>
             <marker date="1497288105716" expanded="true" signature="5888:5901" ph="..." />
           </folding>
