@@ -71,8 +71,8 @@
 .control-round .carousel-control {
     top: 47%;
     opacity: 0;
-    width: 200px;
-    height: 200px;
+    width: 45px;
+    height: 45px;
     z-index: 100;
     color: #ffffff;
     display: block;
