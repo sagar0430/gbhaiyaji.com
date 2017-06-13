@@ -26,7 +26,8 @@
 .bs-slider > .carousel-inner > .item > img,
 .bs-slider > .carousel-inner > .item > a > img {
     margin: auto;
-    margin-top: 36px;
+    margin-top: 65px;
+    height: 700px;
     width: 100% !important;
 }
 
@@ -202,12 +203,12 @@
 
 .slide-text {
     left: 0;
-    top: 25%;
+    top: 38%;
     right: 0;
     margin: auto;
     padding: 10px;
     position: absolute;
-    text-align: left;
+    /*text-align: left;*/
     padding: 10px 85px;
     
 }
