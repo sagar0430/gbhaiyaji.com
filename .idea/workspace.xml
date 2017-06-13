@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef447295-acff-4d72-b5f8-5b678fe1982a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Final Slider Images/Final Slider Images/Cabinet Fitting.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Final Slider Images/Final Slider Images/Door Fitting.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Final Slider Images/Final Slider Images/Gate Fitting.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Final Slider Images/Final Slider Images/Miscellaneous Fittings.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Final Slider Images/Final Slider Images/Window Fitting.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imagesforslider/Cabinet Fitting.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imagesforslider/Decorative Miscellaneous Fitting.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imagesforslider/Gate Fitting 3.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imagesforslider/Window Fitting.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tempimagesforbanner/img1.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tempimagesforbanner/img2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tempimagesforbanner/img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tempimagesforbanner/img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tempimagesforbanner/img5.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/img1.jpg" afterPath="$PROJECT_DIR$/images/img1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/img2.png" afterPath="$PROJECT_DIR$/images/img2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/img3.jpeg" afterPath="$PROJECT_DIR$/images/img3.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/img4.jpg" afterPath="$PROJECT_DIR$/images/img4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/img5.jpg" afterPath="$PROJECT_DIR$/images/img5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scroll_nav.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/style.css" afterPath="$PROJECT_DIR$/CSS/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,9 +26,21 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-228">
-              <caret line="275" column="42" lean-forward="true" selection-start-line="275" selection-start-column="42" selection-end-line="275" selection-end-column="42" />
+            <state relative-caret-position="-25">
+              <caret line="48" column="55" lean-forward="false" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scroll_nav.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scroll_nav.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#48#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,8 +60,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state relative-caret-position="250">
+              <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -88,6 +84,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -110,9 +107,10 @@
         <option value="$PROJECT_DIR$/CSS/flickerplate.css" />
         <option value="$PROJECT_DIR$/images/master/bootstrap-carousel-touch-slider-master/bootstrap-touch-slider.css" />
         <option value="$PROJECT_DIR$/images/master/bootstrap-carousel-touch-slider-master/index.html" />
-        <option value="$PROJECT_DIR$/CSS/style.css" />
         <option value="$PROJECT_DIR$/CSS/bootstrap-touch-slider.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/CSS/style.css" />
+        <option value="$PROJECT_DIR$/scroll_nav.js" />
       </list>
     </option>
   </component>
@@ -250,7 +248,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58539000" />
+    <option name="totallyTimeSpent" value="61312000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -262,7 +260,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19180088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -303,13 +301,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../FreeLance_/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="67" lean-forward="false" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/New Text Document.txt" />
     <entry file="file://$PROJECT_DIR$/../new_ioe/CSS/MainPage.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -563,14 +554,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/bootstrap-touch-slider.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
@@ -579,10 +562,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scroll_nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="275" column="42" lean-forward="true" selection-start-line="275" selection-start-column="42" selection-end-line="275" selection-end-column="42" />
+        <state relative-caret-position="-25">
+          <caret line="48" column="55" lean-forward="false" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
           <folding />
         </state>
       </provider>
