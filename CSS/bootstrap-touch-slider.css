@@ -20,11 +20,13 @@
     left: 0;
     width: 100%;
     height: 100%;
+
     /*background-color: rgba(0, 0, 0, 0.40);*/
 }
 .bs-slider > .carousel-inner > .item > img,
 .bs-slider > .carousel-inner > .item > a > img {
     margin: auto;
+    margin-top: 36px;
     width: 100% !important;
 }
 

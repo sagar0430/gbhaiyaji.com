@@ -9,5 +9,6 @@ $(document).on("scroll", function(){
     else
     {
         $(".navbar").removeClass("shrink");
+
     }
 });
