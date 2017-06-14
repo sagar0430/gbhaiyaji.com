@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef447295-acff-4d72-b5f8-5b678fe1982a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/metals/Aluminium.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/metals/depryct/Aluminium.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/metals/depryct/Antique Iron.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/metals/depryct/Brass.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/metals/depryct/Iron.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/updatedmetalimageswithsamesize.zip" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/style.css" afterPath="$PROJECT_DIR$/CSS/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metals_finishes_script.js" afterPath="$PROJECT_DIR$/metals_finishes_script.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="514" column="65" lean-forward="false" selection-start-line="514" selection-start-column="65" selection-end-line="514" selection-end-column="65" />
+            <state relative-caret-position="147">
+              <caret line="393" column="33" lean-forward="false" selection-start-line="393" selection-start-column="33" selection-end-line="393" selection-end-column="33" />
               <folding>
                 <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -268,7 +260,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75402000" />
+    <option name="totallyTimeSpent" value="75597000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -625,8 +617,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="514" column="65" lean-forward="false" selection-start-line="514" selection-start-column="65" selection-end-line="514" selection-end-column="65" />
+        <state relative-caret-position="147">
+          <caret line="393" column="33" lean-forward="false" selection-start-line="393" selection-start-column="33" selection-end-line="393" selection-end-column="33" />
           <folding>
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
