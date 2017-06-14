@@ -3,7 +3,7 @@
  */
 $(document).ready(function(){
 
-    $('#itemslider,#finishes-slider').carousel({ interval: 3000 });
+    $('#finishes-slider').carousel({ interval: 3000 });
 
     $('.carousel-showmanymoveone .item').each(function(){
         var itemToClone = $(this);

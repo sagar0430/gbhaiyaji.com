@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef447295-acff-4d72-b5f8-5b678fe1982a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/finishsectionimages/11Antique Brass.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/finishsectionimages/2Rustic Iron.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/finishsectionimages/3Natural Iron.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/finishsectionimages/4pewter.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/finishsectionimages/7Polished Brass.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/finishsectionimages/9Satin Chrome.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/finishsectionimages/1Matt Black.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/finishsectionimages/2Rustic Iron (1).png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metals_finishes_script.js" afterPath="$PROJECT_DIR$/metals_finishes_script.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1828">
-              <caret line="415" column="91" lean-forward="false" selection-start-line="415" selection-start-column="91" selection-end-line="415" selection-end-column="91" />
+            <state relative-caret-position="272">
+              <caret line="407" column="94" lean-forward="false" selection-start-line="407" selection-start-column="94" selection-end-line="407" selection-end-column="94" />
               <folding>
                 <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -65,8 +62,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-253">
-              <caret line="106" column="55" lean-forward="false" selection-start-line="106" selection-start-column="55" selection-end-line="106" selection-end-column="55" />
+            <state relative-caret-position="422">
+              <caret line="151" column="17" lean-forward="true" selection-start-line="151" selection-start-column="17" selection-end-line="151" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -75,8 +72,8 @@
       <file leaf-file-name="metals_finishes_script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/metals_finishes_script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            <state relative-caret-position="125">
+              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
               <folding>
                 <element signature="e#0#48#0" expanded="false" />
               </folding>
@@ -266,7 +263,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76472000" />
+    <option name="totallyTimeSpent" value="77932000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -603,28 +600,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-253">
-          <caret line="106" column="55" lean-forward="false" selection-start-line="106" selection-start-column="55" selection-end-line="106" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/metals_finishes_script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        <state relative-caret-position="125">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding>
             <element signature="e#0#48#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="151" column="17" lean-forward="true" selection-start-line="151" selection-start-column="17" selection-end-line="151" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1828">
-          <caret line="415" column="91" lean-forward="false" selection-start-line="415" selection-start-column="91" selection-end-line="415" selection-end-column="91" />
+        <state relative-caret-position="272">
+          <caret line="407" column="94" lean-forward="false" selection-start-line="407" selection-start-column="94" selection-end-line="407" selection-end-column="94" />
           <folding>
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
