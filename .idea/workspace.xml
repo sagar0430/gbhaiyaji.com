@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef447295-acff-4d72-b5f8-5b678fe1982a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/finishsectionimages/1Matt Black.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/finishsectionimages/2Rustic Iron (1).png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metals_finishes_script.js" afterPath="$PROJECT_DIR$/metals_finishes_script.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="407" column="94" lean-forward="false" selection-start-line="407" selection-start-column="94" selection-end-line="407" selection-end-column="94" />
+            <state relative-caret-position="322">
+              <caret line="497" column="103" lean-forward="false" selection-start-line="497" selection-start-column="103" selection-end-line="497" selection-end-column="103" />
               <folding>
                 <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -263,7 +260,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77932000" />
+    <option name="totallyTimeSpent" value="78447000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -620,8 +617,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="407" column="94" lean-forward="false" selection-start-line="407" selection-start-column="94" selection-end-line="407" selection-end-column="94" />
+        <state relative-caret-position="322">
+          <caret line="497" column="103" lean-forward="false" selection-start-line="497" selection-start-column="103" selection-end-line="497" selection-end-column="103" />
           <folding>
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
