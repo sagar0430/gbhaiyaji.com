@@ -146,6 +146,10 @@ nav {
     font-size: 10px;
     margin: 2px auto 5px;
 }
+#finishes-slider
+{
+    margin-bottom: 3%;
+}
 .badge {
     background: #b20c0c;
     position: absolute;
